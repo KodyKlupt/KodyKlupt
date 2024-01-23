@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I am a PhD student studying Biochemistry at Queen's University, Canada. 
 <!--
 **KodyKlupt/KodyKlupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
