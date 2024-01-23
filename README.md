@@ -1,5 +1,3 @@
-![Banner Image](https://github.com/KodyKlupt/KodyKlupt/assets/99773085/da9fffff-3ce4-4dc2-8472-f293302b358c)
-
 ### Hi there 👋
 
 ### I am a PhD student studying Biochemistry at Queen's University, Canada. My interests are structural biology, protein modeling, and synthetic biology. 
