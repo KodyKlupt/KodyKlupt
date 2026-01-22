@@ -4,6 +4,6 @@
 
   
 
-How to reach me: ... kody.klupt@queensu.ca 
+### How to reach me: ... kody.klupt@queensu.ca 
 
 
